@@ -1,8 +1,8 @@
 /* eslint-disable jsx-a11y/alt-text */
-import React from 'react';
+import React from 'react'
 import logo from './images/logo.png'
 import box from './images/box.png'
-import './App.css';
+import './App.css'
 
 function App() {
     return (
@@ -16,7 +16,7 @@ function App() {
                 <img src={box} />
             </div>
         </div>
-    );
+    )
 }
 
 export default App;
